@@ -15,7 +15,7 @@ ffmpeg -fflags +genpts -r 50 -i fig%04d.png -vcodec mpeg4 -qmax 1000 orbit.mp4
 
 
 ## References
-https://arxiv.org/pdf/1301.6674.pdf
-https://en.wikipedia.org/wiki/Orbital_speed#Instantaneous_orbital_speed
-https://en.wikipedia.org/wiki/Initial_mass_function#Kroupa_(2001)
-Classical Mechanics by John R. Taylor
+- https://arxiv.org/pdf/1301.6674.pdf
+- https://en.wikipedia.org/wiki/Orbital_speed#Instantaneous_orbital_speed
+- https://en.wikipedia.org/wiki/Initial_mass_function#Kroupa_(2001)
+- Classical Mechanics by John R. Taylor
